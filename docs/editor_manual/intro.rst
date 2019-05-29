@@ -1,13 +1,13 @@
 介绍
 ------------
 
-`Wagtail <http://www.wagtail.io>`_ is a new open source content management system (CMS) developed by `Torchbox <http://www.torchbox.com>`_. It is built on the Django framework and designed to be super easy to use for both developers and editors.
+`Wagtail <http://www.wagtail.io>`_ 是一套新的由`Torchbox <http://www.torchbox.com>`_开发的开源内容管理系统（CMS）。它建立在Django框架之上，为开发人员和编辑人员易于使用而设计开发。
 
-This documentation will explain how to:
+本文件将解释如何：
 
--  navigate the main user interface of Wagtail
--  create pages of all different types
--  modify, save, publish and unpublish pages
--  how to set up users, and provide them with specific roles to create a publishing workflow
--  upload, edit and include images and documents
--  ... and more!
+-  Wagtail的主要用户界面导航
+-  创建所有不同类型的页面
+-  修改、保存、发布和取消发布页面
+-  如何设置用户并为其提供特定角色以创建发布工作流
+-  上传、编辑和包含图像和文档
+-  …还有更多！
