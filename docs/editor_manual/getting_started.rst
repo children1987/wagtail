@@ -1,10 +1,10 @@
-Getting started
+入门
 ~~~~~~~~~~~~~~~
 
-The Wagtail demo site
+Wagtail演示网站
 _____________________
 
-The examples in this document are based on `Torchbox.com <https://torchbox.com>`_. However, the instructions are general enough as to be applicable to any Wagtail site.
+本文中的示例基于 `Torchbox.com <https://torchbox.com>`_. 但是，这些说明足够通用，适用于任何Wagtail站点。
 
 For the purposes of this documentation we will be using the URL, **www.example.com**, to represent the root (homepage) of your website.
 
