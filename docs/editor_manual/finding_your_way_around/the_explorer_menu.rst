@@ -1,10 +1,10 @@
-The Explorer menu
+资源管理器菜单
 ~~~~~~~~~~~~~~~~~
 
 .. image:: ../../_static/images/screen03_explorer_menu.png
 
-* Click the Pages button in the sidebar to open the explorer. This allows you to navigate through the sections of the site.
-* Clicking the name of a page will take you to the Explorer page for that section.
-* Clicking the edit icon for a page will take you to its edit screen.
-* Clicking the arrow takes you to the sub-section.
-* Clicking the section title takes you back to where you were.
+* 单击侧边栏中的“页面”按钮打开资源管理器。这将允许您浏览站点的各个部分。
+* 单击页面名称将转到该节的资源管理器页面。
+* 单击页面的编辑图标将进入其编辑页面。
+* 单击箭头可转到子会话。
+* 单击会话标题将返回到原来的位置。
