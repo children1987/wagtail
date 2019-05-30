@@ -1,9 +1,10 @@
 .. _editor_manual:
 
-Using Wagtail: an Editor's guide
+使用Wagtail：编辑者指南
+
 ================================
 
-This section of the documentation is written for the users of a Wagtail-powered site. That is, the content editors, moderators and administrators who will be running things on a day-to-day basis.
+本部分文档是为基于Wagtail站点的使用者编写的。即，为内容编辑、版主和管理员等日常运维人员编写。
 
 .. toctree::
    :maxdepth: 3
