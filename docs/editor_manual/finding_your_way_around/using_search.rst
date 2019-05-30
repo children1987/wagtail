@@ -1,8 +1,8 @@
-Using search
+使用搜索
 ~~~~~~~~~~~~
 
 .. image:: ../../_static/images/screen04_search_screen.png
 
-* A very easy way to find the page that you want is to use the main search feature, accessible from the left-hand menu.
-* Simply type in part or all of the name of the page you are looking for, and the results below will automatically update as you type.
-* Clicking the page title in the results will take you to the Edit page for that result. You can differentiate between similar named pages using the Parent column, which tells you what the parent page of that page is.
+* 查找所需页面的一个非常简单的方法是使用主搜索功能，可以从左侧菜单访问。
+* 只需键入您要查找的页面的部分或全部名称，下面的结果将在您键入时自动更新。
+* 单击结果中的页面标题将转到该结果的编辑页面。您可以使用父列来区分相似的命名页面，父列告诉您该页面的父页是什么。
