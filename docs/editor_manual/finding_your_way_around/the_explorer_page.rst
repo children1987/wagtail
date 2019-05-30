@@ -1,32 +1,32 @@
-The Explorer page
+资源管理器页面
 ~~~~~~~~~~~~~~~~~
 
-The Explorer page allows you to view a page's children and perform actions on them. From here you can publish/unpublish pages, move pages to other sections, drill down further into the content tree, or reorder pages under the parent for the purposes of display in menus.
+资源管理器页面允许您查看页面的子级并对其执行操作。从这里，您可以发布/取消发布页面、将页面移动到其他节、放入内容树下一级，或者为在菜单中显示而重新排序父级下的页面。
 
 
 .. image:: ../../_static/images/screen05_explorer_page.png
 
-* The name of the section you are looking at is displayed below the breadcrumb (the row of page names beginning with the home icon). Each section is also itself a page (in this case the homepage). Clicking the title of the section takes you to the Edit screen for the section page.
-* As the heading suggests, below are the child pages of the section. Clicking the titles of each child page will take you to its Edit screen.
+* 您正在查看的会话的名称显示在面包屑（以主页图标开头的一行页面名称）的下面。每个部分本身也是一个页面（在本例中是主页）。单击该节的标题将进入该节页面的编辑页面。
+* 如标题所示，下面是该节的子页。单击各子页面的标题将进入其编辑页面。
 
 .. image:: ../../_static/images/screen06_explorer_page_arrow.png
 
-* Clicking the arrows will display a further level of child pages.
+* 单击箭头将显示更深级别的子页面。
 
 .. image:: ../../_static/images/screen07_explorer_page_breadcrumb.png
 
-* As you drill down through the site the breadcrumb (the row of pages beginning with the home icon) will display the path you have taken. Clicking on the page titles in the breadcrumb will take you to the Explorer screen for that page.
+* 当您向下级点击整个站点时，面包屑（以主页图标开头的一行页面）将显示您所采用的路径。单击面包屑中的页面标题将进入该页面的资源管理器页面。
 
 .. image:: ../../_static/images/screen08_add_page_button.png
 
-* To add further child pages press the Add child page button below the parent page title. You can view the parent page on the live site by pressing the View live button. The Move button will take you to the Move page screen where you can reposition the page and all its child pages in the site structure.
-* Similar buttons are available for each child page. These are made visible on hover.
+* 要添加更多子页，请按父页标题下的“添加子页面”按钮。您可以通过按父页面的*实时查看*按钮查看父页面。“移动”按钮将带您进入“移动页面”界面，您可以在其中重新定位到页面及其在网站中的所有子页面。
+* 每个子页面都有类似的按钮。这些在悬停时可见。
 
-Reordering pages
+重新排序页面
 ________________
 
 .. image:: ../../_static/images/screen08.5_reorder_page_handles.png
 
-* Clicking the “Sort” control in the header row will enable the reordering handles. This allows you to reorder the way that content displays in the main menu of your website.
-* Reorder by dragging the pages by the handles on the far left (the icon made up of 6 dots).
-* Your new order will be automatically saved each time you drag and drop an item.
+* 单击标题行中的“SORT”按钮将启用排序功能。这允许您重新排序内容在网站主菜单中的显示方式。
+* 通过拖动最左边的把手（由6个点组成的图标）来重新排序。
+* 每次拖放项目时，都会自动保存新顺序。
