@@ -1,4 +1,3 @@
-Finding your way around
 找到你的路
 =======================
 

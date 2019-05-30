@@ -1,30 +1,30 @@
-The Dashboard
+仪表盘
 ~~~~~~~~~~~~~
 
 .. MAKE CHANGES TO INCLUDE MODERATION//
 
-The Dashboard provides information on:
+仪表板提供以下信息：
 
-* The number of pages, images, and documents currently held in the Wagtail CMS
-* Any pages currently awaiting moderation (if you have these privileges)
-* Your most recently edited pages
+* 当前在Wagtail CMS中保存的页数、图像和文档数
+* 当前正在等待审核的任何页面（如果您有这些权限）
+* 您最近编辑的页面
 
-You can return to the Dashboard at any time by clicking the Wagtail logo in the top-left of the screen.
+您可以随时单击屏幕左上角的Wagtail徽标返回仪表盘。
 
 .. image:: ../../_static/images/screen02_dashboard_editor.png
 
-- Clicking the logo returns you to your Dashboard.
-- The stats at the top of the page describe the total amount of content on the CMS (just for fun!).
-- The *Pages awaiting moderation* table will only be displayed if you have moderator or administrator privileges
+- 单击徽标将返回到仪表盘。
+- 页面顶部的统计数据描述了CMS上的总内容量（只是为了好玩！）
+- 只有当您具有版主或管理员权限时，才会显示*页面等待审核中*的页面表。
 
-  - Clicking the name of a page will take you to the ‘Edit page’ interface for this page.
-  - Clicking approve or reject will either change the page status to live or return the page to draft status. An email will be sent to the creator of the page giving the result of moderation either way.
-  - The *Parent* column tells you what the parent page of the page awaiting moderation is called. Clicking the parent page name will take you to its Edit page.
+  - 单击页面名称将进入此页面的“编辑页面”界面。
+  - 单击“批准”或“拒绝”会将页面状态更改为“在用”或将页面返回到“草稿”状态。无论审核结果如何，一封电子邮件将被发送给网页的创建者。
+  - *父节点*列告诉您等待审核的页面的父页面是什么。单击父页名称将进入其编辑页。
 
-- The *Your most recent edits* table displays the five pages that you most recently edited.
-- The date column displays the date that you edited the page. Hover your mouse over the date for a more exact time/date.
-- The status column displays the current status of the page. A page will have one of three statuses:
+- *最近编辑*表显示您最近编辑的五页。
+- 日期列显示您编辑页面的日期。将鼠标悬停在日期上方以获得更精确的时间/日期。
+- 状态列显示页面的当前状态。页面将是以下三种状态之一：
 
-  - Live: Published and accessible to website visitors
-  - Draft:  Not live on the website.
-  - Live + Draft: A version of the page is live, but a newer version is in draft mode.
+  - 在用：已发布且可被访客访问
+  - 草稿：不在网站上呈现
+  - 在用 + 草稿: 页面版本为在用，但较新版本处于草稿模式。
