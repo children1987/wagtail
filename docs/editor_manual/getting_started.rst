@@ -13,7 +13,7 @@ __________
 
 * 编辑者的第一个调用端口是管理界面的登录页面。
 
-* Access this by adding **/admin** onto the end of your root URL (e.g. ``www.example.com/admin``).
-* Enter your username and password and click **Sign in**.
+* 通过将**/admin**添加到根URL的末尾（例如，``www.example.com/admin```）来访问该页面。
+* 输入您的用户名和密码，然后单击**登录**。
 
 .. image:: ../_static/images/screen01_login.png
