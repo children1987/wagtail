@@ -1,9 +1,9 @@
-Creating new pages
+创建新页面
 ~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../_static/images/screen08_add_page_button.png
 
-Create new pages by clicking the **Add child page** button. This creates a child page of the section you are currently in. In this case a child page of the 'School of Fine Art' page.
+单击**添加子页面**按钮创建新页面。这将创建当前所在分区的子页。本例中是“School of Fine Art”页面的子页面。
 
 .. ADD IN OTHER WAYS A CHILD PAGE CAN BE ADDED?>>
 
