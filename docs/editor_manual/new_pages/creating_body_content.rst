@@ -1,51 +1,50 @@
-Creating page body content
+创建页面正文内容
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Wagtail supports a number of basic fields for creating content, as well as our unique StreamField feature which allows you to construct complex layouts by combining these basic fields in any order.
+Wagtail支持许多用于创建内容的基本字段，以及我们独特的流字段功能，它允许您通过按任意顺序组合这些基本字段来构建复杂的布局。
 
 ===========
-StreamField
+流字段
 ===========
 
-StreamField allows you to create complex layouts of content on a page by combining a number of different arrangements of content, 'blocks', in any order.
+流字段允许您通过组合多个不同的内容和“块”创建复杂内容的组合。
 
 .. image:: ../../_static/images/screen11_empty_streamfield.png
 
-When you first edit a page, you will be presented with the empty StreamField area, with the option to choose one of several block types. The block types on your website may be different from the screenshot here, but the principles are the same.
+当您第一次编辑页面时，将显示空的流字段区域，您可以选择几个块类型中的一种。网站上的块类型可能与此处的屏幕截图不同，但原理相同。
 
-Click the block type, and the options will disappear, revealing the entry field for that block.
+单击块类型，选项将消失，显示该块的输入字段。
 
-Depending on the block you chose, the field will display differently, and there might even be more than one field! There are a few common field types though that we will talk about here.
+根据您选择的块，字段将以不同的方式显示，甚至可能有多个字段！我们将在这里讨论一些常见的字段类型。
 
-* Basic text field
-* Rich text field
-* Image field
+* 基本文本字段
+* 富文本字段
 
-Basic text field
+基本文本字段
 ================
 
-Basic text fields have no formatting options. How these display will be determined by the style of the page in which they are being inserted. Just click into the field and type!
+基本文本字段没有格式选项。这些显示将如何由插入它们的页面的样式决定。只需点击字段并输入！
 
-Rich text fields
+富文本字段
 ================
 
-Most of the time though, you need formatting options to create beautiful looking pages. Wagtail provides "rich text" fields, which have formatting options similar to those of word processors.
+但大多数情况下，您需要格式化选项来创建美观的页面。Wagtail提供“富文本”字段，这些字段具有类似于字处理程序的格式选项。
 
 .. image:: ../../_static/images/screen11.1_streamfield_richtext.png
 
-Those fields present a set of tools which allow you to format and style your text. These tools also allow you to insert links, images, videos clips and links to documents. If you want to know more about a specific tool, hover your mouse on the corresponding button so the tooltip appears:
+这些字段提供了一组工具，允许您设置文本的格式和样式。这些工具还允许您插入链接、图像、视频剪辑和指向文档的链接。如果要了解有关特定工具的更多信息，请将鼠标悬停在相应的按钮上，以便工具提示出现：
 
 .. image:: ../../_static/images/screen11.2_toolbar_tooltips.png
 
-This tooltip shows a longer description of the tool, and displays its keyboard shortcut if there is one. If the keyboard shortcut does not start with CTRL or ⌘, it's a `Markdown <https://en.wikipedia.org/wiki/Markdown>`_ shortcut to type directly in the editor:
+此工具提示显示工具的较长描述，如果有快捷键，则显示其快捷键。如果键盘快捷键不是以ctrl开始，则直接在编辑器中键入的快捷键是` markdown<https://en.wikipedia.org/wiki/markdown>`_：
 
 .. image:: ../../_static/images/screen11.3_keyboard_shortcuts_.gif
 
 ----
 
-That’s the gist of it! If you want more information about the editor, please have a look at its dedicated `user guide <https://www.draftail.org/docs/user-guide>`_. It also contains a list of all of the available keyboard shortcuts, and some tricks and gotchas.
+这就是重点！如果您想了解更多关于编辑器的信息，请查看其专用的`用户指南 <https://www.draftail.org/docs/user-guide>`_。它还包含所有可用键盘快捷键的列表，以及一些技巧和陷阱。
 
-Adding further blocks in StreamField
+在流字段中添加更多块
 ==============================================
 
 .. image:: ../../_static/images/screen11.8_adding_new_blocks.png
