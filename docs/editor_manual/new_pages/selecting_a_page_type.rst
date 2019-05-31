@@ -1,9 +1,9 @@
-Selecting a page type
+选择页面类型
 ~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../_static/images/screen09_page_type_selection.png
 
-* On the left of the page chooser screen are listed all the types of pages that you can create. Clicking the page type name will take you to the Create new page screen for that page type (see below).
+* 页面选择器界面左侧列出了您可以创建的所有页面类型。单击页面类型名称将进入为该页面类型创建新页面屏幕（请参见下文）。
 * Clicking the *Pages using … Page* links on the right will display all the pages that exist on the website of this type. This is to help you judge what type of page you will need to complete your task.
 
 .. image:: ../../_static/images/screen10_blank_page_edit_screen.png
